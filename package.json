@@ -1,0 +1,12 @@
+{
+"name":"quantum-rpg-engine",
+"version":"1.0.0",
+"description":"Advanced RPG backend",
+"main":"src/server.js",
+"scripts":{
+"start":"node src/server.js"
+},
+"dependencies":{
+"express":"^4.18.2"
+}
+}
