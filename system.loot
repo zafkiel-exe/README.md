@@ -1,0 +1,15 @@
+function generateLoot(){
+
+const roll = Math.random()
+
+if(roll < 0.5) return "common sword"
+
+if(roll < 0.8) return "rare armor"
+
+if(roll < 0.95) return "epic staff"
+
+return "legendary blade"
+
+}
+
+module.exports = generateLoot
