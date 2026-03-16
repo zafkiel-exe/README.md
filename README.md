@@ -1,6 +1,6 @@
 Quantum RPG Engine
 
-Advanced backend architecture for multiplayer RPG games.
+Simple Beckend architecture for games 
 
 Features
 
